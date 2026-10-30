@@ -1,0 +1,11 @@
+build/
+results/
+*.vcd
+*.fst
+*.json
+*.bit
+*.rpt
+*.out
+.Xil/
+*.jou
+*.log
