@@ -3,7 +3,7 @@ Parameterized asynchronous FIFO in SystemVerilog with gray-code pointers and 2-f
 
 
 ## Plan
-- [ ] Sync FIFO, testbench
+- [x] Sync FIFO, testbench
 - [ ] Async FIFO
 - [ ] Async FIFO testbench
 - [ ] UVM verification

@@ -1,5 +1,6 @@
 build/
 results/
+trash/
 *.vcd
 *.fst
 *.json
@@ -9,3 +10,10 @@ results/
 .Xil/
 *.jou
 *.log
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
